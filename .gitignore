@@ -1,0 +1,15 @@
+
+src/js/metacoin-config.js
+node_modules
+build
+.env
+
+# src
+/src/abi
+/src/components
+/src/slices
+/src/config.js
+/src/index.js
+/src/serviceWorker.js
+/src/store.js
+
